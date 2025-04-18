@@ -68,6 +68,8 @@
         Enter the second number: 5
         Result: 15
         ```
+## Tutorial?
+https://www.youtube.com/watch?v=zUw8MYoOYtM
 
 ## Author
 
